@@ -12,9 +12,9 @@ This project is derived from [channingbreeze/games](https://github.com/channingb
 
 You can quickly deploy this template to EdgeOne Pages with just one click:
 
-[![Deploy to EdgeOne](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/petparty&source-tomchild)
+[![Deploy to EdgeOne](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/petparty&source=tomchild)
 
-[More Templates](https://edgeone.ai/pages/games-unblocked?source-tomchild)
+[More Templates](https://edgeone.ai/pages/games-unblocked?source=tomchild)
 
 ## Tech Stack
 
